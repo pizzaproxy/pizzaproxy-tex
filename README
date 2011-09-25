@@ -5,7 +5,7 @@ The latex file itself is built like this:
 %Start of file
 \documentclass{bon}
 
-%Height is calculated by this formula: HEIGHT=(Number of orders+2)*14pt + Head Size[in pt=85.33]
+%Height is calculated by this formula: HEIGHT=(Number of orders+2)*14pt + Head Size[in pt=85.33]+5pt
 \usepackage[paperwidth=80mm,paperheight=<HEIGHT>pt,top=2mm, bottom=2mm, left=0mm, right=0mm]{geometry}
 \begin{document}
 \code{<FOUR DIGIT ORDER CODE>}
