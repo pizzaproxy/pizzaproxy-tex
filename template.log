@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.28)  25 SEP 2011 20:52
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.28)  26 SEP 2011 23:44
 entering extended mode
  %&-line parsing enabled.
 **template.tex
@@ -175,19 +175,19 @@ LaTeX Warning: Unused global option(s):
 (./template.aux)
 \openout1 = `template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 7.
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -221,7 +221,7 @@ twocolumn: --
 twoside: --
 asymmetric: --
 h-parts: 0.0pt, 204.85983pt, 0.0pt
-v-parts: 0.0pt, 130.0pt, 0.0pt
+v-parts: 0.0pt, 307.28975pt, 0.0pt
 hmarginratio: --
 vmarginratio: --
 lines: --
@@ -234,9 +234,9 @@ includemp: --
 driver: pdftex
 -------------------- Page layout dimensions and switches
 \paperwidth  204.85983pt
-\paperheight 130.0pt
+\paperheight 307.28975pt
 \textwidth  204.85983pt
-\textheight 130.0pt
+\textheight 307.28975pt
 \oddsidemargin  -72.26999pt
 \evensidemargin -72.26999pt
 \topmargin  -109.26999pt
@@ -260,43 +260,43 @@ pdfTeX warning: pdflatex (file ./pizzaproxy_logo.pdf): PDF inclusion: found PDF
 <pizzaproxy_logo.pdf, id=1, 164.615pt x 164.615pt>
 File: pizzaproxy_logo.pdf Graphic file (type pdf)
  <use pizzaproxy_logo.pdf>
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 7.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 9.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 7.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 9.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 7.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 9.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 7.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 9.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 7.
+(Font)              <10> on input line 9.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 7.
+(Font)              <7> on input line 9.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 7.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 7.
+(Font)              <5> on input line 9.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 9.
 
 (/usr/share/texmf-texlive/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 9.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 11.
 
 (/usr/share/texmf-texlive/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-Overfull \hbox (48.2601pt too wide) in alignment at lines 8--17
+Overfull \hbox (89.94435pt too wide) in alignment at lines 10--22
  [] [] 
  []
 
@@ -305,20 +305,20 @@ Overfull \hbox (48.2601pt too wide) in alignment at lines 8--17
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pizzaproxy_logo.pdf>]
 (./template.aux) ) 
 Here is how much of TeX's memory you used:
- 2562 strings out of 495021
- 35542 string characters out of 1181035
- 87047 words of memory out of 3000000
- 5716 multiletter control sequences out of 15000+50000
- 23686 words of font info for 32 fonts, out of 3000000 for 9000
+ 2570 strings out of 495021
+ 35612 string characters out of 1181035
+ 87124 words of memory out of 3000000
+ 5721 multiletter control sequences out of 15000+50000
+ 24610 words of font info for 35 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  35i,6n,24p,210b,220s stack positions out of 5000i,500n,10000p,200000b,50000s
  </home/muzy/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1200.
 600pk>{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-t
 exlive/fonts/type1/public/eurosym/feybr10.pfb></usr/share/texmf-texlive/fonts/t
 ype1/urw/courier/ucrb8a.pfb>
-Output written on template.pdf (1 page, 20481 bytes).
+Output written on template.pdf (1 page, 30493 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

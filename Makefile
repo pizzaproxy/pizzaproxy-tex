@@ -7,6 +7,10 @@ e: edit
 
 s: show
 
+p: print
+
+pp: pdf print
+
 sd:
 	okular template.pdf
 
