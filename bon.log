@@ -1,0 +1,14 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdftex 2011.9.25)  25 SEP 2011 15:54
+entering extended mode
+**D:/Eigene*Dateien/pizzaproxy/tex/bon.cls
+("D:/Eigene Dateien/pizzaproxy/tex/bon.cls"
+! Undefined control sequence.
+l.1 \NeedsTeXFormat
+                   {LaTeX2e}[1995/12/01]
+? 
+! Emergency stop.
+l.1 \NeedsTeXFormat
+                   {LaTeX2e}[1995/12/01]
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
