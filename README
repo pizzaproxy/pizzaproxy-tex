@@ -16,6 +16,9 @@ The latex file itself is built like this:
 %After your orders, add the total price summary
 \total{<SUM OF ORDER PRICES>}
 \finishorder
+%if less than 10 orders:
+% (10-orders)*12pt
+\vspace{96pt}
 \end{document}
 %End of file
 

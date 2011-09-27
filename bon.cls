@@ -8,18 +8,19 @@
 \RequirePackage{lmodern}
 \RequirePackage[T1]{fontenc}
 \RequirePackage{pdfpages}
+\RequirePackage{calc}
+\RequirePackage{textcomp}
+
 \usepackage{longtable}
 
 \pagestyle{empty}
 
 % My commands
 
-\newcounter{items}
-\setcounter{items}{0}
 
 \makeatletter
 	\newcommand{\code}[1]{\def \@code{#1}}
-	% Generates the header
+    % Generates the header
 	\newcommand{\head} {
 		\begin{minipage}[h!]{0.4\textwidth}
 			\flushleft
@@ -35,9 +36,12 @@
 	}
 	\newcommand{\changefont}[3]{\fontfamily{#1} \fontseries{#2} \fontshape{#3} \selectfont}	
 	\newcommand{\startorder}{
-		\begin{longtable}{lp{5cm}}}
-	\newcommand{\addorder}[2]{\changefont{cmss}{bx}{n}\large#1&\changefont{cmss}{bx}{n}\large#2 \euro{} \\
-        \stepcounter{items}
+		\begin{longtable}{lp{4cm}}
+    }
+	\newcommand{\addorder}[3]{
+        \changefont{cmss}{bx}{n}\large#1x\hspace{-3mm}\changefont{cmss}{bx}{n}\large#2&
+        \changefont{cmss}{bx}{n}\large#3 \euro{} 
+        \\
     }
 	\newcommand{\finishorder}{\end{longtable}}
 	\newcommand{\total}[1]{		
@@ -45,12 +49,10 @@
 		\changefont{cmss}{bx}{n}\large TOTAL&\changefont{cmss}{bx}{n}\large#1 \euro{}
 	}
     \newcommand{\beginfooter}{
-        
         \begin{longtable}{c}
     }
     \newcommand{\addfooter}[1]{
         \changefont{pcr}{b}{sc}\normalsize#1\\
     }
     \newcommand{\finishfooter}{\end{longtable}}
-    \newcommand{\space
 \makeatother
