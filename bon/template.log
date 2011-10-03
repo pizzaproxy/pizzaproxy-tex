@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.28)  27 SEP 2011 01:07
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.8.28)  1 OCT 2011 18:56
 entering extended mode
  %&-line parsing enabled.
 **template.tex
@@ -370,7 +370,7 @@ LaTeX Font Info:    Try loading font information for T1+cmss on input line 11.
 (/usr/share/texmf-texlive/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-Overfull \hbox (61.95358pt too wide) in alignment at lines 10--22
+Overfull \hbox (54.93588pt too wide) in alignment at lines 10--22
  [] [] 
  []
 
@@ -381,7 +381,7 @@ Overfull \hbox (61.95358pt too wide) in alignment at lines 10--22
 Here is how much of TeX's memory you used:
  3015 strings out of 495021
  42528 string characters out of 1181035
- 93529 words of memory out of 3000000
+ 89529 words of memory out of 3000000
  6157 multiletter control sequences out of 15000+50000
  24610 words of font info for 35 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
@@ -390,9 +390,9 @@ Here is how much of TeX's memory you used:
 600pk>{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-t
 exlive/fonts/type1/public/eurosym/feybr10.pfb></usr/share/texmf-texlive/fonts/t
 ype1/urw/courier/ucrb8a.pfb>
-Output written on template.pdf (1 page, 34380 bytes).
+Output written on template.pdf (1 page, 29712 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
