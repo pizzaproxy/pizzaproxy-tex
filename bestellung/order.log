@@ -1,0 +1,14 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdftex 2011.10.3)  3 OCT 2011 05:11
+entering extended mode
+**D:/Eigene*Dateien/pizzaproxy/bestellung/order.cls
+("D:/Eigene Dateien/pizzaproxy/bestellung/order.cls"
+! Undefined control sequence.
+l.1 \NeedsTeXFormat
+                   {LaTeX2e}[1995/12/01]
+? 
+! Emergency stop.
+l.1 \NeedsTeXFormat
+                   {LaTeX2e}[1995/12/01]
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
