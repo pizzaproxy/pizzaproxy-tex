@@ -47,8 +47,8 @@
 		\changefont{phv}{m}{n}
 		\setlength\LTleft{0pt}
 		\setlength\LTright{0pt}
-		\begin{longtable}{@{\extracolsep{0mm}}lrrc}				
-		\changefont{phv}{b}{sc}Bezeichnung&\changefont{phv}{b}{sc}Preis&\changefont{phv}{b}{sc}Total&\changefont{phv}{b}{sc}Erhalten\\[10pt]
+		\begin{longtable}{@{\extracolsep{0mm}}lrrcc}
+		\changefont{phv}{b}{sc}Bezeichnung&\changefont{phv}{b}{sc}Preis&\changefont{phv}{b}{sc}Total&\changefont{phv}{b}{sc}Erhalten&\changefont{phv}{b}{sc}Bestellt\\[10pt]
 		\hline\\[-6.5pt]
 	}
 	%Finish order
@@ -58,7 +58,7 @@
 	%<quantity> <order code> <name> <price> <total>
 	\newcommand{\addorder}[5]{		
 		\hline\\		
-		\changefont{phv}{b}{n}#1x\hspace{-6pt}\changefont{phv}{m}{n}Nr. #2 "#3"&#4 \euro{}&#5 \euro{}&\addboxes{#1}\\[10pt]
+		\changefont{phv}{b}{n}#1x\hspace{-6pt}\changefont{phv}{m}{n}Nr. #2 "#3"&#4 \euro{}&#5 \euro{}&\addboxes{#1}&{$\square$}\\[10pt]
 	}
 	%<order code> <Name> <Street name + house number> <phone>
 	\newcommand{\alternative}[4]{
